@@ -1,0 +1,11 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "images as a service",
+  "main": "index.js",
+  "author": "samo",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.24.1"
+  }
+}
